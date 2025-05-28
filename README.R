@@ -25,6 +25,7 @@
         width: 100%;
         height: 3px;
       }    #nprogress .peg {
+
         display: block;
         position: absolute;
         right: 0px;
