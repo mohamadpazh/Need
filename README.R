@@ -36,6 +36,9 @@
     -webkit-transform: rotate(3deg) translate(0px, -4px);
         -ms-transform: rotate(3deg) translate(0px, -4px);
         transform: rotate(3deg) translate(0px, -4px);
+     }  -webkit-transform: rotate(3deg) translate(0px, -4px);
+        -ms-transform: rotate(3deg) translate(0px, -4px);
+        transform: rotate(3deg) translate(0px, -4px);
      }
       #nprogress .spinner {
         display: block;
