@@ -16,6 +16,7 @@
         height: 3px;
       }
 
+
       #nprogress .bar {
         background: #B1FF8F;
         position: fixed;
