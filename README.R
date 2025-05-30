@@ -15,9 +15,7 @@
         width: 100%;
         height: 3px;
       }
-
-
-      #nprogress .bar {
+   #nprogress .bar {
         background: #B1FF8F;
         position: fixed;
         z-index: 9999;
