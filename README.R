@@ -24,6 +24,15 @@
         width: 100%;
         height: 3px;
       }    #nprogress .peg {
+  #nprogress .bar {
+        background: #B1FF8F;
+        position: fixed;
+        z-index: 9999;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 3px;
+      }    #nprogress .peg {
 
         display: block;
         position: absolute;
